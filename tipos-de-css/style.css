@@ -1,0 +1,55 @@
+.card-border {
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    border: solid 2px navy;
+    margin: 20px;
+    padding: 40px;
+}
+
+.border {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.icone-1 {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/706/706830.png");
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    background-size: cover;
+}
+
+.icone-2 {
+    background-image: url("https://cdn-icons-png.flaticon.com/256/3681/3681928.png");
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    background-size: cover;
+}
+
+.icone2-border {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: url('https://cdn-icons-png.flaticon.com/256/3681/3681928.png');
+    margin-top: 20px;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.text-title {
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.main-color {
+    color: navy;
+}
+
+.text {
+    font-family: monospace;
+    font-size: 15px;
+}
